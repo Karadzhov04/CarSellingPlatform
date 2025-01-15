@@ -1,0 +1,76 @@
+﻿@model CarSellingPlatform.ViewModels.Home.GoSeeAdVM
+@using Common.Entities;
+
+@{
+    this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+<div class="BackHome">
+    <a href="/Home/Index" class="btn">Back</a>
+</div>
+
+<div class="container4">
+    <div class="header2">
+        <div class="title-image-container">
+            @if (!string.IsNullOrEmpty(Model.AdModel.ImagePath))
+            {
+                <div class="image-container">
+                    <img src="@Model.AdModel.ImagePath" alt="Car Image" />
+                </div>
+            }
+            else
+            {
+                <p>No image available</p>
+            }
+            <h2>@Model.AdModel.Title</h2>
+        </div>
+    </div>
+    <div class="content">
+        <h3 class="CarName">
+            <u><i>PRICE: @Model.CarModel.Price лв.</i></u>
+        </h3>
+        <div class="rowT">
+            <div class="col1">
+                <table class="CarInfo">
+                    <tr>
+                        <th>Brand</th>
+                        <th>@Model.CarModel.Brand</th>
+                    </tr>
+                    <tr>
+                        <th>Model</th>
+                        <th>@Model.CarModel.Model</th>
+                    </tr>
+                    <tr>
+                        <th>Engine</th>
+                        <th>@Model.CarModel.Engine</th>
+                    </tr>
+                    <tr>
+                        <th>Year</th>
+                        <th>@Model.CarModel.Year</th>
+                    </tr>
+                    <tr>
+                        <th>Mileage in km</th>
+                        <th>@Model.CarModel.MileageInKm</th>
+                    </tr>
+                    <tr>
+                        <th>Horse power</th>
+                        <th>@Model.CarModel.HorsePower</th>
+                    </tr>
+                </table>
+            </div>
+            <div class="col2">
+                <h4><i>@Model.AdModel.Description</i></h4>
+            </div>
+        </div>
+    </div>
+    <div class="menu2">
+        <h2>Owner:</h2>
+        <p><u>@Model.UserModel.FName @Model.UserModel.LName</u></p>
+        <h3>Phone:</h3>
+        <p><u>@Model.UserModel.Phone</u></p>
+        <h3>Email:</h3>
+        <p><u>@Model.UserModel.Email</u></p>
+    </div>
+</div>
+
+

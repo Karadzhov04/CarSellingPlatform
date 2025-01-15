@@ -1,0 +1,35 @@
+﻿@model CarSellingPlatform.ViewModels.Ads.CategoryVM
+@using Common.Entities
+@{
+    this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+<div class="centered-container">
+    <form action="/Ads/ChooseCategory" method="post">
+        <div class="grid-2">
+            <div class="row">
+                <div class="col-1">Type of category</div>
+                <div class="col-2">
+                    @Html.DropDownListFor(
+                             model => model.CategoryName,
+                             Html.GetEnumSelectList<CategoryType>(),
+                             "Select Category Type"
+                             )
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.CategoryName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    @Html.ValidationMessage("authError")
+                </div>
+            </div>
+            <div class="row-button">
+                <div class="col-2">
+                    <input type="submit" value="Post" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

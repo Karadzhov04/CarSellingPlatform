@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNetCore.Http
+<html>
+	<head>
+		<title>MySite</title>
+		<link href="/site.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div>
+			<h1 class="title">Find your best car</h1>
+		</div>
+		<div>
+		<ul class="navbar">
+			@if (ViewContext.HttpContext.Session.GetString("loggedUserId") != null)
+			{
+				<li class="item-bar"><a href="/Home/Index">Home</a></li>
+				<li class="item-bar"><a href="/Ads/CreateCar">CREATE YOUR OWN AD</a></li>
+				<li class="item-bar"><a href="/Home/GoProfile">Your profile</a></li>
+				<li class="item-bar"><a href="/Home/Login">Logout</a></li>
+			}
+			else
+			{
+				<li class="item-bar"><a href="/Home/Login">Login</a></li>
+				<li class="item-bar"><a href="/Home/CreateUser">Register</a></li>
+			}
+		</ul>
+		</div>
+		@RenderBody()
+	</body>
+</html>

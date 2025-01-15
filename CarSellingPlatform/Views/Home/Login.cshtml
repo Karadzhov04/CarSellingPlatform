@@ -1,0 +1,39 @@
+﻿@model CarSellingPlatform.ViewModels.Home.LoginVM
+
+@{
+	this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+<div class="centered-container">
+    <form action="/Home/Login" method="post">
+        <div class="grid-2">
+            <div class="row">
+                <div class="col-1">Username</div>
+                <div class="col-2">@Html.TextBoxFor(m => m.Username)</div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Username)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Password</div>
+                <div class="col-2">
+                    @Html.PasswordFor(m => m.Password)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Password)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    @Html.ValidationMessage("authError")
+                </div>
+            </div>
+            <div class="row-button">
+                <div class="col-2">
+                    <input type="submit" value="Login" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+

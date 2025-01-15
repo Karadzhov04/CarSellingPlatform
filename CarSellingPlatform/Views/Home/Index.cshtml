@@ -1,0 +1,114 @@
+﻿@model CarSellingPlatform.ViewModels.Home.IndexVM
+@using Common.Entities;
+
+@{
+    this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+
+<div class="conteiner">
+    <div class="menu">
+        <form action="/Home/Index" method="get">
+            <div class="grid-2">
+                <div class="rowF">
+                    <div class="col-1F">Brand</div>
+                    <div class="col-2F">
+                        @Html.DropDownListFor(
+                                 model => model.Brand,
+                                 Html.GetEnumSelectList<BrandType>(),
+                                 "Select Brand Type"
+                                 )
+                    </div>
+                    <div class="col-1F">Model</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.Model)</div>
+                    <div class="col-1F">Min mileage</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.MinMileage)</div>        
+                    <div class="col-1F">Min Price</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.MinPrice)</div>
+                    <div class="col-1F">Min Horse power</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.MinHorsePower)</div>
+                </div>
+                <div class="rowF">
+                    <div class="col-1F">Engine</div>
+                    <div class="col-2F">
+                        @Html.DropDownListFor(
+                                 model => model.Engine,
+                                 Html.GetEnumSelectList<Fuel>(),
+                                 "Select Fuel Type"
+                                 )
+                    </div>
+                    <div class="col-1F">Year</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.Year)</div>
+                    <div class="col-1F">Max mileage</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.MaxMileage)</div>
+                    <div class="col-1F">Max Price</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.MaxPrice)</div>
+                    <div class="col-1F">Max Horse Power</div>
+                    <div class="col-2F">@Html.TextBoxFor(m => m.MaxHorsePower)</div> 
+                </div>
+                <div class="rowF">
+                    <div class="col-3F">
+                        <a href="/Home/Index" class="btn">Clear</a>
+                    </div>
+                    <div class="col-3F">
+                        <input type="submit" value="Filter" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    @if (Model.AdsItems.Any())
+    {
+        <div class="grid">
+        @foreach (var ad in Model.AdsItems)
+        {
+            <div class="container3">
+                <div class="header">
+                        @if (!string.IsNullOrEmpty(ad.ImagePath))
+                        {
+                            <div>
+                                <img src="@ad.ImagePath" alt="Car Image" />
+                            </div>
+                        }
+                        else
+                        {
+                            <p>No image available</p>
+                        }
+                </div>
+                <div class="content">
+                    <h2 class="CarName">@ad.Title</h2>
+                    @foreach (var car in Model.CarItems)
+                    {
+                      @if (car.Id == ad.CarId)
+                      {
+                          <h3 class="Price">@car.Price лв. (@car.MileageInKm км)</h3>
+                          break;
+                      }
+                    }
+                    <a href="/Home/GoSeeAd?id=@ad.Id" class="btnSee">See more</a>
+                </div>
+                <div class="footer">
+                    @foreach(var categoryAd in Model.CategoryAdItems)
+                        {
+                        @if (categoryAd.AdId == ad.Id)
+                            {
+                                var category = Model.CategoryItems.FirstOrDefault(x => x.Id == categoryAd.CategoryId);
+                                <h3>@category.CategoryName</h3>
+                                break;
+                            }
+                        }
+                        <h3>@ad.CreatedAt</h3>
+                </div>
+            </div>
+        }
+        </div>
+    }
+    else
+    {
+        <div class="noAds">   
+            <div>NO ADS YET</div>
+        </div>
+    }
+</div>
+

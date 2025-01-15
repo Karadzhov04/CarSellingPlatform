@@ -1,0 +1,58 @@
+﻿@model CarSellingPlatform.ViewModels.Ads.EditAdVM
+
+@{
+    this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+<div class="centered-container">
+    <form action="/Ads/EditAd" method="post" enctype="multipart/form-data">
+        @Html.HiddenFor(m => m.Id)
+        <div class="grid-2">
+            <div class="row">
+                <div class="col-1">Title</div>
+                <div class="col-2">@Html.TextBoxFor(m => m.Title)</div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Title)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Description</div>
+                <div class="col-2">
+                    @Html.TextAreaFor(m => m.Description)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Description)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">CreatedAt</div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.CreatedAt, new { @type = "datetime-local", @class = "form-control" })
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.CreatedAt)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Image file</div>
+                <div class="col-2">
+                    <input type="file" name="Image" />
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.ImagePath)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    @Html.ValidationMessage("authError")
+                </div>
+            </div>
+            <div class="row-button">
+                <div class="col-2">
+                    <input type="submit" value="Save" />
+                    <a href="/Home/GoProfile">Back</a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

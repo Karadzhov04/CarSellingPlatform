@@ -1,0 +1,28 @@
+C:\Users\user\source\repos\CarSellingPlatform\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\user\source\repos\CarSellingPlatform\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+C:\Users\user\source\repos\CarSellingPlatform\Common\bin\Debug\net8.0\Common.dll
+C:\Users\user\source\repos\CarSellingPlatform\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.dll
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+C:\Users\user\source\repos\CarSellingPlatform\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\bin\Debug\net8.0\Common.dll
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.dll
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\Common\obj\Debug\net8.0\ref\Common.dll

@@ -1,0 +1,72 @@
+﻿@model CarSellingPlatform.ViewModels.Home.IndexVM
+@using Common.Repositories
+
+@{
+    this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+@{
+    var loggedUser = Model.UserItems.FirstOrDefault(x => x.Id == int.Parse(ViewContext.HttpContext.Session.GetString("loggedUserId")));
+}
+
+<div class="container2">
+    <div class="header">
+        <h2>Your Profile</h2>
+    </div>
+    <div class="menu2">
+        <h1>Your information</h1>
+        <h3>Name:</h3>
+        <p>@loggedUser.FName @loggedUser.LName</p>
+        <h3>Email:</h3>
+        <p>@loggedUser.Email</p>
+        <h3>Phone:</h3>
+        <p>@loggedUser.Phone</p>
+        <h3>Username:</h3>
+        <p>@loggedUser.Username</p>
+        <h3>Password:</h3>
+        <p>@loggedUser.Password</p>
+        <div class="buttonsProfile">
+            <a href="/Home/Edit?id=@loggedUser.Id" class="btn">Edit</a>
+            <br><a onclick="return confirm('Delete item?')" href="/Home/Delete?id=@loggedUser.Id" class="btn">Delete</a><br>
+        </div>
+    </div>
+    <div class="content">
+        <h2>Your own ads</h2>
+        <table >
+            @foreach(var ad in Model.AdsItems)
+            {
+                @if (ad.OwnerId == loggedUser.Id)
+                {
+                    <tr>
+                        @foreach (var adCategory in Model.CategoryAdItems)
+                        {
+                            @if (adCategory.AdId == ad.Id)
+                            {
+                                var categoryId = adCategory.CategoryId;
+                                <td>
+                                    <ul class="crudList">
+                                        <li class="links"><a href="/Ads/EditCategory?id=@categoryId" class="btn">Edit category's info of the ad</a></li>
+                                        <li class="links"><a href="/Ads/EditCar?id=@ad.CarId" class="btn">Edit car's info of the ad</a></li>
+                                        <li class="links"><a href="/Ads/EditAd?id=@ad.Id" class="btn">Edit ad's info of the ad</a></li>
+                                        <li class="links"><a href="/Ads/DeleteAd?id=@ad.Id" class="btn">Delete</a></li>
+                                    </ul>
+                                </td>
+                                break;
+                            }
+                        }
+                        @if (!string.IsNullOrEmpty(ad.ImagePath))
+                        {
+                            <td><img src="@ad.ImagePath" alt="Car Image" /></td>
+                        }
+                        else
+                        {
+                            <td>No image available</td>
+                        }
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>
+
+

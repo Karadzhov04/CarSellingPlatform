@@ -1,0 +1,95 @@
+﻿@model CarSellingPlatform.ViewModels.Ads.EditCarVM
+@using Common.Entities
+@{
+    this.Layout = "/Views/Shared/Site.cshtml";
+}
+
+<div class="centered-container">
+    <form action="/Ads/EditCar" method="post">
+        @Html.HiddenFor(m => m.Id)
+        <div class="grid-2">
+            <div class="row">
+                <div class="col-1">Brand</div>
+                <div class="col-2">
+                    @Html.DropDownListFor(
+                             model => model.Brand,
+                             Html.GetEnumSelectList<BrandType>(),
+                             "Select Brand Type"
+                             )
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Brand)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Model</div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.Model)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Model)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Year</div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.Year)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Year)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Price</div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.Price)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Price)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">Engine</div>
+                <div class="col-2">
+                    @Html.DropDownListFor(
+                             model => model.Engine,
+                             Html.GetEnumSelectList<Fuel>(),
+                             "Select Fuel Type"
+                             )
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.Engine)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">MileageInKm</div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.MileageInKm)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.MileageInKm)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">HorsePower</div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.HorsePower)
+                </div>
+                <div class="col-3">
+                    @Html.ValidationMessageFor(m => m.HorsePower)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    @Html.ValidationMessage("authError")
+                </div>
+            </div>
+            <div class="row-button">
+                <div class="col-2">
+                    <input type="submit" value="Save" />
+                    <a href="/Home/GoProfile">Back</a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
