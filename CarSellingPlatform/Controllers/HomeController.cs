@@ -16,7 +16,6 @@ namespace CarSellingPlatform.Controllers
         {
             using (CarSellingPlatformDbContext context = new CarSellingPlatformDbContext())
             {
-                // Създаване на филтъра като Expression Tree
                 Expression<Func<Car, bool>> carFilter = c =>
                     (!filter.Brand.HasValue || c.Brand == filter.Brand.Value) &&
                     (string.IsNullOrEmpty(filter.Model) || c.Model.ToLower().Contains(filter.Model.ToLower())) &&
@@ -29,16 +28,14 @@ namespace CarSellingPlatform.Controllers
                     (!filter.MinHorsePower.HasValue || c.HorsePower >= filter.MinHorsePower.Value) &&
                     (!filter.MaxHorsePower.HasValue || c.HorsePower <= filter.MaxHorsePower.Value);
 
-                // Прилагане на филтъра върху Car
                 List<Car> filteredCars = context.Cars.Where(carFilter).ToList();
 
-                List<int> carIds = filteredCars.Select(car => car.Id).ToList(); // Вземаме само ID-тата на филтрираните коли
+                List<int> carIds = filteredCars.Select(car => car.Id).ToList();
 
                 List<Ad> filteredAds = context.Ads
-                    .Where(ad => carIds.Contains(ad.CarId)) // Филтрираме обявите, чийто CarId е в списъка
+                    .Where(ad => carIds.Contains(ad.CarId))
                     .ToList();
 
-                // Подготовка на модела за изгледа
                 var model = new IndexVM
                 {
                     UserItems = context.Users.ToList(),

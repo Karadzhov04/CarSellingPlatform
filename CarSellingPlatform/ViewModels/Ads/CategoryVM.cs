@@ -1,4 +1,5 @@
 ﻿using Common.Entities;
+using Common.Enums;
 using System.ComponentModel.DataAnnotations;
 
 namespace CarSellingPlatform.ViewModels.Ads

@@ -268,3 +268,4 @@ C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\CarSellingPlatform\obj\
 C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\CarSellingPlatform\obj\Debug\net8.0\CarSellingPlatform.pdb
 C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\CarSellingPlatform\obj\Debug\net8.0\CarSellingPlatform.genruntimeconfig.cache
 C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\CarSellingPlatform\obj\Debug\net8.0\ref\CarSellingPlatform.dll
+C:\Users\user\Desktop\ПУ-2 КУРС\CarSellingPlatform\CarSellingPlatform\obj\Debug\net8.0\CarSellingPlatform.sourcelink.json

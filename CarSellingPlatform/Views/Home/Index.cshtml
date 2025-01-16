@@ -1,5 +1,6 @@
 ﻿@model CarSellingPlatform.ViewModels.Home.IndexVM
 @using Common.Entities;
+@using Common.Enums
 
 @{
     this.Layout = "/Views/Shared/Site.cshtml";
@@ -33,7 +34,7 @@
                     <div class="col-2F">
                         @Html.DropDownListFor(
                                  model => model.Engine,
-                                 Html.GetEnumSelectList<Fuel>(),
+                                 Html.GetEnumSelectList<FuelType>(),
                                  "Select Fuel Type"
                                  )
                     </div>
@@ -103,6 +104,9 @@
             </div>
         }
         </div>
+        <footer class="to-the-top">
+            <a href="#top"> To the top </a>
+        </footer>
     }
     else
     {

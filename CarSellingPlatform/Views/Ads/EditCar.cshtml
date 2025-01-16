@@ -1,5 +1,7 @@
 ﻿@model CarSellingPlatform.ViewModels.Ads.EditCarVM
 @using Common.Entities
+@using Common.Enums
+
 @{
     this.Layout = "/Views/Shared/Site.cshtml";
 }
@@ -53,7 +55,7 @@
                 <div class="col-2">
                     @Html.DropDownListFor(
                              model => model.Engine,
-                             Html.GetEnumSelectList<Fuel>(),
+                             Html.GetEnumSelectList<FuelType>(),
                              "Select Fuel Type"
                              )
                 </div>

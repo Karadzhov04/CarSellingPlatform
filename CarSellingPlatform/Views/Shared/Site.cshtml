@@ -9,20 +9,28 @@
 			<h1 class="title">Find your best car</h1>
 		</div>
 		<div>
-		<ul class="navbar">
 			@if (ViewContext.HttpContext.Session.GetString("loggedUserId") != null)
 			{
-				<li class="item-bar"><a href="/Home/Index">Home</a></li>
-				<li class="item-bar"><a href="/Ads/CreateCar">CREATE YOUR OWN AD</a></li>
-				<li class="item-bar"><a href="/Home/GoProfile">Your profile</a></li>
-				<li class="item-bar"><a href="/Home/Login">Logout</a></li>
+				<ul class="navbarIndex">
+					<div>
+						<li class="item-bar"><a href="/Home/Index">Home</a></li>
+					</div>
+					<div>
+						<li class="item-bar"><a href="/Home/GoProfile">Your profile</a></li>
+						<li class="item-bar"><a href="/Home/Login">Logout</a></li>
+					</div>
+				</ul>
+				<div>
+					<h2 class="CreateAd"><a href="/Ads/CreateCar"><b>/CREATE YOUR OWN AD/</b></a></h2>
+				</div>
 			}
 			else
 			{
-				<li class="item-bar"><a href="/Home/Login">Login</a></li>
-				<li class="item-bar"><a href="/Home/CreateUser">Register</a></li>
+				<ul class="navbar">
+					<li class="item-bar"><a href="/Home/Login">Login</a></li>
+					<li class="item-bar"><a href="/Home/CreateUser">Register</a></li>
+				</ul>
 			}
-		</ul>
 		</div>
 		@RenderBody()
 	</body>

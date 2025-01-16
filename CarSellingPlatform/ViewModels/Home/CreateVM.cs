@@ -16,9 +16,11 @@ namespace CarSellingPlatform.ViewModels.Home
         [Required(ErrorMessage = "This filed is required!")]
         public string LName { get; set; }
 
+        [EmailAddress]
         public string Email { get; set; }
 
         [Required(ErrorMessage = "This filed is required!")]
+        [Phone]
         public string Phone { get; set; }
     }
 }

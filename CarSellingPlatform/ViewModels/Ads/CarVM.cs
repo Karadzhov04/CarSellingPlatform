@@ -1,4 +1,5 @@
 ﻿using Common.Entities;
+using Common.Enums;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 
@@ -22,7 +23,7 @@ namespace CarSellingPlatform.ViewModels.Ads
         public double Price { get; set; }
 
         [Required(ErrorMessage = "This filed is required!")]
-        public Fuel Engine { get; set; }
+        public FuelType Engine { get; set; }
 
         [Required(ErrorMessage = "This filed is required!")]
         public double MileageInKm { get; set; }
