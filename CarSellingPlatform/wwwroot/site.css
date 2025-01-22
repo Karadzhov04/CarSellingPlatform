@@ -1,5 +1,5 @@
 body {
-    background-color:aqua;
+    background-color: #A0A0A0;
 }
 
 .title {
@@ -168,7 +168,7 @@ h1 {
         "footer footer";
     grid-template-columns: 1fr 2fr;
     gap: 5px;
-    background-color: #2196F3;
+    background-color: #000000;
     padding: 15px;
     height: -webkit-fill-available;
     font-size: large;
