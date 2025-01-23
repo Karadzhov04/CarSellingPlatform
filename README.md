@@ -1,2 +1,2 @@
 # CarSellingPlatform
- ASP.NET RAZOR
+ ASP.NET Core RAZOR
