@@ -56,24 +56,24 @@ namespace CarSellingPlatform.Controllers
             {
                 HttpContext.Session.Clear();
             }
-          
+
             return View();
         }
-        
+
         [HttpPost]
         [ModelStateFilter]
-        public IActionResult Login(LoginVM model) 
+        public IActionResult Login(LoginVM model)
         {
             if (!ModelState.IsValid)
-            { 
-				return View(model);
+            {
+                return View(model);
             }
 
             CarSellingPlatformDbContext context = new CarSellingPlatformDbContext();
-            User? loggeduser = context.Users.Where(u => u.Username == model.Username 
+            User? loggeduser = context.Users.Where(u => u.Username == model.Username
                                                     && u.Password == model.Password).FirstOrDefault();
 
-            if (loggeduser == null) 
+            if (loggeduser == null)
             {
                 ModelState.AddModelError("authError", "User not found");
                 return View(model);
@@ -84,12 +84,12 @@ namespace CarSellingPlatform.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-		[HttpGet]
-		public IActionResult CreateUser()
-		{
+        [HttpGet]
+        public IActionResult CreateUser()
+        {
 
-			return View();
-		}
+            return View();
+        }
 
         [HttpPost]
         [ModelStateFilter]
@@ -204,5 +204,14 @@ namespace CarSellingPlatform.Controllers
 
             return View(model);
         }
-    }
+
+        [HttpGet]
+        [SessionAuthFilter]
+		public IActionResult Logout()
+		{
+            this.HttpContext.Session.Remove("loggedUserId");
+
+			return RedirectToAction("Index", "Home");
+		}
+	}
 }

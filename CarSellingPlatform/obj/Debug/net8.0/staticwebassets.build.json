@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w4KY/pb+4KQZ2JJ96tIU4TYdT9ZBmca9JtzUFEquYKU=",
+  "Hash": "Asj8lqancbiIh3YRw2PSUjQxthSYfCK3qL5aSIYtZlc=",
   "Source": "CarSellingPlatform",
   "BasePath": "_content/CarSellingPlatform",
   "Mode": "Default",
@@ -169,6 +169,25 @@
       "OriginalItemSpec": "wwwroot\\images\\7dca3a16-c60c-4c0c-b589-c9490965b2a0.jpg"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\images\\95c8d1fb-5bac-4928-a91c-d49f9371d7ef.jpg",
+      "SourceId": "CarSellingPlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\",
+      "BasePath": "_content/CarSellingPlatform",
+      "RelativePath": "images/95c8d1fb-5bac-4928-a91c-d49f9371d7ef.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\95c8d1fb-5bac-4928-a91c-d49f9371d7ef.jpg"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\images\\ad3e0cfe-1ec3-4563-bd0d-48d6b8ec0592.jpg",
       "SourceId": "CarSellingPlatform",
       "SourceType": "Discovered",
@@ -300,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\db70205f-9990-4f22-b913-d47d6c770282.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\images\\dd2e77c5-2e98-48af-b528-56de89675045.jpg",
+      "SourceId": "CarSellingPlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\",
+      "BasePath": "_content/CarSellingPlatform",
+      "RelativePath": "images/dd2e77c5-2e98-48af-b528-56de89675045.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dd2e77c5-2e98-48af-b528-56de89675045.jpg"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\images\\e38d6f05-dbdc-4287-abae-d99117e0fb14.jpg",
