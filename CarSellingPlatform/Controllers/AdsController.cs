@@ -1,4 +1,5 @@
 ﻿using CarSellingPlatform.ActionFilters;
+using CarSellingPlatform.ImageProcess;
 using CarSellingPlatform.ViewModels.Ads;
 using CarSellingPlatform.ViewModels.Home;
 using Common.Entities;
@@ -74,22 +75,10 @@ namespace CarSellingPlatform.Controllers
             {
                 return NotFound();
             }
+
             if (ad.Image != null && ad.Image.Length > 0)
             {
-                // Генерирайте уникално име за файла
-                string fileName = Guid.NewGuid().ToString() + Path.GetExtension(ad.Image.FileName);
-
-                // Задайте път за съхранение (папка wwwroot/images/)
-                string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
-
-                // Запишете файла
-                using (var stream = new FileStream(filePath, FileMode.Create))
-                {
-                    ad.Image.CopyTo(stream);
-                }
-
-                // Задайте пътя в ImagePath
-                ad.ImagePath = $"/images/{fileName}";
+                ad.ImagePath = PhotoProcess.CreateImage(ad.Image);
             }
 
             Ad item = new Ad();
@@ -186,32 +175,26 @@ namespace CarSellingPlatform.Controllers
             EditAdVM model = new EditAdVM();
             model.Title = item.Title;
             model.Description = item.Description;
+            model.ImagePath = item.ImagePath;
+            model.CreatedAt = item.CreatedAt;
 
             return View(model);
         }
 
         [HttpPost]
-        public IActionResult EditAd(EditAdVM model)
+        public IActionResult EditAd(EditAdVM model, string CurrentCreatedAt)
         {
             BaseRepository<Ad> repo = new BaseRepository<Ad>();
             Ad item = repo.FirstOrDefault(x => x.Id == model.Id);
 
             if (model.Image != null && model.Image.Length > 0)
             {
-                // Генерирайте уникално име за файла
-                string fileName = Guid.NewGuid().ToString() + Path.GetExtension(model.Image.FileName);
+                model.ImagePath = PhotoProcess.CreateImage(model.Image);
+            }
 
-                // Задайте път за съхранение (папка wwwroot/images/)
-                string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
-
-                // Запишете файла
-                using (var stream = new FileStream(filePath, FileMode.Create))
-                {
-                    model.Image.CopyTo(stream);
-                }
-
-                // Задайте пътя в ImagePath
-                model.ImagePath = $"/images/{fileName}";
+            if (model.CreatedAt == DateTime.MinValue)
+            {
+                model.CreatedAt = DateTime.Parse(CurrentCreatedAt);
             }
 
             item.Title = model.Title;

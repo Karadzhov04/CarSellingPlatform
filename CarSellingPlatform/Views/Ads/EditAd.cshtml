@@ -28,6 +28,7 @@
                 <div class="col-1">CreatedAt</div>
                 <div class="col-2">
                     @Html.TextBoxFor(m => m.CreatedAt, new { @type = "datetime-local", @class = "form-control" })
+                    @Html.Hidden("CurrentCreatedAt", Model.CreatedAt.ToString("yyyy-MM-ddTHH:mm"))
                 </div>
                 <div class="col-3">
                     @Html.ValidationMessageFor(m => m.CreatedAt)
@@ -37,6 +38,7 @@
                 <div class="col-1">Image file</div>
                 <div class="col-2">
                     <input type="file" name="Image" />
+                    @Html.HiddenFor(m => m.ImagePath)
                 </div>
                 <div class="col-3">
                     @Html.ValidationMessageFor(m => m.ImagePath)

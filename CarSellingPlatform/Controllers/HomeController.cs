@@ -64,10 +64,6 @@ namespace CarSellingPlatform.Controllers
         [ModelStateFilter]
         public IActionResult Login(LoginVM model)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(model);
-            }
 
             CarSellingPlatformDbContext context = new CarSellingPlatformDbContext();
             User? loggeduser = context.Users.Where(u => u.Username == model.Username
@@ -115,6 +111,7 @@ namespace CarSellingPlatform.Controllers
         }
 
         [HttpGet]
+        [SessionAuthFilter]
         public IActionResult Edit(int id)
         {
             BaseRepository<User> repo = new BaseRepository<User>();
@@ -153,6 +150,7 @@ namespace CarSellingPlatform.Controllers
         }
 
         [HttpGet]
+        [SessionAuthFilter]
         public IActionResult Delete(int id)
         {
             BaseRepository<User> repo = new BaseRepository<User>();
@@ -184,6 +182,9 @@ namespace CarSellingPlatform.Controllers
 
             return View(model);
         }
+
+        [HttpGet]
+        [SessionAuthFilter]
         public ActionResult GoSeeAd(int id)
         {
             CarSellingPlatformDbContext context = new CarSellingPlatformDbContext();
@@ -207,7 +208,7 @@ namespace CarSellingPlatform.Controllers
 
         [HttpGet]
         [SessionAuthFilter]
-		public IActionResult Logout()
+        public IActionResult Logout()
 		{
             this.HttpContext.Session.Remove("loggedUserId");
 

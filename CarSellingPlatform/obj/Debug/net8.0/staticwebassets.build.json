@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Asj8lqancbiIh3YRw2PSUjQxthSYfCK3qL5aSIYtZlc=",
+  "Hash": "ysma37rWqv3SsHOBmkqNGf+CdfpK4AE5Ild1h35SzOQ=",
   "Source": "CarSellingPlatform",
   "BasePath": "_content/CarSellingPlatform",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\4a67da0e-f163-4b58-8e3a-d716b88c5c26.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\images\\6b993811-0e86-48ad-8712-eb7728b29473.jpg",
+      "SourceId": "CarSellingPlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\",
+      "BasePath": "_content/CarSellingPlatform",
+      "RelativePath": "images/6b993811-0e86-48ad-8712-eb7728b29473.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6b993811-0e86-48ad-8712-eb7728b29473.jpg"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\ПУ-2 КУРС\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\images\\7dca3a16-c60c-4c0c-b589-c9490965b2a0.jpg",

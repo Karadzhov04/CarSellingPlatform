@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\controllers\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\controllers\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\ads\\advm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\ads\\advm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\shared\\site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\shared\\site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\actionfilters\\modelstatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\actionfilters\\modelstatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\actionfilters\\sessionauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\actionfilters\\sessionauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\home\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\home\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\migrations\\20241201145347_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\migrations\\20241201145347_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\repositories\\carsellingplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\repositories\\carsellingplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\controllers\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\controllers\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\goseead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\goseead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\shared\\site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\shared\\site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\home\\goseeadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\home\\goseeadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\ads\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,16 +55,64 @@
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\ads\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\ads\\choosecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\ads\\choosecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\ads\\createad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\ads\\createad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\goseead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\goseead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\home\\goseeadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\home\\goseeadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\home\\goprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\home\\goprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\imageprocess\\photoprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\imageprocess\\photoprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\ads\\advm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\ads\\advm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\ads\\editadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\ads\\editadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\ads\\editad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\ads\\editad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\ads\\choosecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\ads\\choosecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\ads\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -115,48 +159,16 @@
       "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\repositories\\carsellingplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\repositories\\carsellingplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\actionfilters\\modelstatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\actionfilters\\modelstatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\goprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\goprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\migrations\\20250111215342_changetypebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\migrations\\20250111215342_changetypebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\home\\goprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\home\\goprofilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\migrations\\20250109213308_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,16 +183,8 @@
       "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\home\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\migrations\\20241201145347_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\migrations\\20241201145347_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\common\\migrations\\carsellingplatformdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF4FDEC-8BDD-43F5-A35F-5F55FB261C63}|Common\\Common.csproj|solutionrelative:common\\migrations\\carsellingplatformdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\ads\\editadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|solutionrelative:carsellingplatform\\viewmodels\\ads\\editadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{208C1995-EE3E-4925-B9A1-8A58E40FDA6A}|CarSellingPlatform\\CarSellingPlatform.csproj|c:\\users\\user\\desktop\\\u043F\u0443-2 \u043A\u0443\u0440\u0441\\carsellingplatform\\carsellingplatform\\viewmodels\\ads\\editcarvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,7 +206,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,56 +214,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CarSellingPlatform\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCoAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAUwNEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T11:38:05.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Common\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Common\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA9wCcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CarSellingPlatformDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\CarSellingPlatformDbContext.cs",
+              "RelativeDocumentMoniker": "Common\\Repositories\\CarSellingPlatformDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\CarSellingPlatformDbContext.cs",
+              "RelativeToolTip": "Common\\Repositories\\CarSellingPlatformDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwE8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T18:23:32.535Z"
+              "WhenOpened": "2024-12-21T14:00:12.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T14:43:04.678Z"
+              "Title": "20241201145347_Tables.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20241201145347_Tables.cs",
+              "RelativeDocumentMoniker": "Common\\Migrations\\20241201145347_Tables.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20241201145347_Tables.cs",
+              "RelativeToolTip": "Common\\Migrations\\20241201145347_Tables.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:11:57.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\User.cs",
+              "RelativeToolTip": "Common\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:08:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\CreateVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\CreateVM.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\CreateVM.cs",
               "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Home\\CreateVM.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:44:03.861Z"
+              "WhenOpened": "2024-12-25T14:44:03.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ModelStateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
+              "RelativeToolTip": "CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:16:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SessionAuthFilter.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ActionFilters\\SessionAuthFilter.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ActionFilters\\SessionAuthFilter.cs",
@@ -272,58 +305,240 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Site.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Shared\\Site.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Shared\\Site.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Shared\\Site.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Shared\\Site.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T11:59:47.118Z",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Common\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Common\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:23:32.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AdsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Controllers\\AdsController.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\Controllers\\AdsController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Controllers\\AdsController.cs",
               "RelativeToolTip": "CarSellingPlatform\\Controllers\\AdsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAmwMMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T14:27:46.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T11:40:07.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T09:33:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:19:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateAd.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:06:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoSeeAd.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T11:16:11.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Shared\\Site.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Shared\\Site.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Shared\\Site.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Shared\\Site.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T11:59:47.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GoSeeAdVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
+              "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:17:50.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GoProfileVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
+              "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:07:12.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AdVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\AdVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\AdVM.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\AdVM.cs",
               "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Ads\\AdVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T17:42:48.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateAd.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\CreateAd.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T17:06:24.762Z"
+              "DocumentIndex": 19,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\Ad.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\Ad.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\Ad.cs",
+              "RelativeToolTip": "Common\\Entities\\Ad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:08:56.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T14:43:04.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhotoProcess.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ImageProcess\\PhotoProcess.cs",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\ImageProcess\\PhotoProcess.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ImageProcess\\PhotoProcess.cs",
+              "RelativeToolTip": "CarSellingPlatform\\ImageProcess\\PhotoProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:20:34.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T22:06:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditAd.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
+              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T10:07:16.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Program.cs",
+              "RelativeToolTip": "CarSellingPlatform\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:25:42.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditAdVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
+              "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
+              "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:37:06.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\wwwroot\\site.css",
               "RelativeDocumentMoniker": "CarSellingPlatform\\wwwroot\\site.css",
@@ -335,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\Index.cshtml",
@@ -347,31 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GoSeeAd.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\GoSeeAd.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T11:16:11.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GoSeeAdVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
-              "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Home\\GoSeeAdVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T11:17:50.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "IndexVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\IndexVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\IndexVM.cs",
@@ -383,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "ChooseCategory.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\ChooseCategory.cshtml",
               "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\ChooseCategory.cshtml",
@@ -395,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "EditCategory.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditCategory.cshtml",
               "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\EditCategory.cshtml",
@@ -407,31 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EditCar.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\EditCar.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T09:33:24.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateCar.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\CreateCar.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T15:19:48.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "CarFilterVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\CarFilterVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\CarFilterVM.cs",
@@ -443,19 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EditAd.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Ads\\EditAd.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T10:07:16.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "CategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\CategoryVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\CategoryVM.cs",
@@ -467,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "CarVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\CarVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\CarVM.cs",
@@ -479,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "BrandType.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Enums\\BrandType.cs",
               "RelativeDocumentMoniker": "Common\\Enums\\BrandType.cs",
@@ -491,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "Common\\Entities\\Car.cs",
@@ -503,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Common\\Entities\\Category.cs",
@@ -515,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "CategoryAd.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\CategoryAd.cs",
               "RelativeDocumentMoniker": "Common\\Entities\\CategoryAd.cs",
@@ -527,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "CategoryType.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Enums\\CategoryType.cs",
               "RelativeDocumentMoniker": "Common\\Enums\\CategoryType.cs",
@@ -539,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "FuelType.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Enums\\FuelType.cs",
               "RelativeDocumentMoniker": "Common\\Enums\\FuelType.cs",
@@ -551,31 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Common\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\User.cs",
-              "RelativeToolTip": "Common\\Entities\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:08:45.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CarSellingPlatformDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\CarSellingPlatformDbContext.cs",
-              "RelativeDocumentMoniker": "Common\\Repositories\\CarSellingPlatformDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Repositories\\CarSellingPlatformDbContext.cs",
-              "RelativeToolTip": "Common\\Repositories\\CarSellingPlatformDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:00:12.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Common\\Entities\\BaseEntity.cs",
@@ -587,43 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Ad.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\Ad.cs",
-              "RelativeDocumentMoniker": "Common\\Entities\\Ad.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Entities\\Ad.cs",
-              "RelativeToolTip": "Common\\Entities\\Ad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:08:56.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Edit.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T22:06:55.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ModelStateFilter.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
-              "RelativeToolTip": "CarSellingPlatform\\ActionFilters\\ModelStateFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:16:53.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "GoProfile.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\GoProfile.cshtml",
               "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\GoProfile.cshtml",
@@ -635,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "20250111215342_ChangeTypeBrand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20250111215342_ChangeTypeBrand.cs",
               "RelativeDocumentMoniker": "Common\\Migrations\\20250111215342_ChangeTypeBrand.cs",
@@ -647,43 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "CarSellingPlatform\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T11:40:07.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Program.cs",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\Program.cs",
-              "RelativeToolTip": "CarSellingPlatform\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAtwCIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T17:25:42.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "GoProfileVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
-              "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Home\\GoProfileVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T11:07:12.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "20250109213308_UpdateModels.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20250109213308_UpdateModels.cs",
               "RelativeDocumentMoniker": "Common\\Migrations\\20250109213308_UpdateModels.cs",
@@ -695,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "20241230091740_AddImagePathToAd.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20241230091740_AddImagePathToAd.cs",
               "RelativeDocumentMoniker": "Common\\Migrations\\20241230091740_AddImagePathToAd.cs",
@@ -707,19 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20241201145347_Tables.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20241201145347_Tables.cs",
-              "RelativeDocumentMoniker": "Common\\Migrations\\20241201145347_Tables.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\20241201145347_Tables.cs",
-              "RelativeToolTip": "Common\\Migrations\\20241201145347_Tables.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwB8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T09:11:57.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\LoginVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\LoginVM.cs",
@@ -731,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "CarSellingPlatformDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\Common\\Migrations\\CarSellingPlatformDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Common\\Migrations\\CarSellingPlatformDbContextModelSnapshot.cs",
@@ -743,19 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "EditAdVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
-              "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
-              "RelativeToolTip": "CarSellingPlatform\\ViewModels\\Ads\\EditAdVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:37:06.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "EditCarVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\EditCarVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\EditCarVM.cs",
@@ -767,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "EditCategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Ads\\EditCategoryVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Ads\\EditCategoryVM.cs",
@@ -779,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "EditVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0423-2 \u041A\u0423\u0420\u0421\\CarSellingPlatform\\CarSellingPlatform\\ViewModels\\Home\\EditVM.cs",
               "RelativeDocumentMoniker": "CarSellingPlatform\\ViewModels\\Home\\EditVM.cs",
